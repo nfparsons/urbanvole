@@ -40,13 +40,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nparsons
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: fa-calendar-check
+  icon_pack: fas
+  link: https://www.calendly.com/nate-parsons
 superuser: true
 title: Nathan F. Parsons
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/parsons-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
