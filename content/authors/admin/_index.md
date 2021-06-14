@@ -40,7 +40,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nparsons
-- icon: fa-calendar-check
+- icon: calendar-check
   icon_pack: fas
   link: https://www.calendly.com/nate-parsons
 superuser: true
